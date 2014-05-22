@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarStyle">@style/FlatActionBar</item>
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="FlatActionBar"
+        parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/flatui_emerald</item>
+    </style>
+</resources>

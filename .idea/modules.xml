@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Libraries/AndroidBootstrap/AndroidBootstrap.iml" filepath="$PROJECT_DIR$/Libraries/AndroidBootstrap/AndroidBootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flash Card/Flash Card.iml" filepath="$PROJECT_DIR$/Flash Card/Flash Card.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlashCard.iml" filepath="$PROJECT_DIR$/FlashCard.iml" />
+    </modules>
+  </component>
+</project>
+

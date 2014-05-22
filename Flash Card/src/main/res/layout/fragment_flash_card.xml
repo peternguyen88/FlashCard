@@ -1,0 +1,76 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:bootstrapbutton="http://schemas.android.com/apk/res-auto"
+    xmlns:fontawesometext="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <com.peter.flashcard.view.TopCardView_
+            android:id="@+id/top_card_view"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:background="@drawable/bg_card"
+            android:clickable="true" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.1"/>
+
+        <com.peter.flashcard.view.BottomCardView_
+            android:id="@+id/bottom_card_view"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:background="@drawable/bg_card" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.1"/>
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:contentDescription="@string/hello_blank_fragment"
+            android:scaleType="fitXY" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            android:layout_weight="1.2">
+
+            <com.beardedhen.androidbootstrap.BootstrapButton
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="Previous"
+                android:layout_weight="1"
+                bootstrapbutton:bb_icon_left="fa-fast-backward"
+                bootstrapbutton:bb_type="success"/>
+            <com.beardedhen.androidbootstrap.BootstrapButton
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="Next"
+                android:layout_weight="1"
+                bootstrapbutton:bb_icon_right="fa-fast-forward"
+                bootstrapbutton:bb_type="success"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.8"
+            android:textSize="20sp"
+            android:text="For Advertising"
+            android:gravity="center"/>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,2 @@
+include ':Flash Card', ':AndroidBootstrap'
+project(':AndroidBootstrap').projectDir = new File('Libraries/AndroidBootstrap')

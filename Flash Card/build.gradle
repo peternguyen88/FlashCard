@@ -1,0 +1,58 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.2+'
+    }
+}
+
+apply plugin: 'android'
+apply plugin: 'android-apt'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.0.3"
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 19
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+apt {
+    arguments {
+        androidManifestFile variant.processResources.manifestFile
+        resourcePackageName "com.peter.flashcard"
+    }
+}
+
+dependencies {
+    // Android Annotation
+    apt "org.androidannotations:androidannotations:3.0+"
+    compile 'org.androidannotations:androidannotations-api:3.0.+'
+
+    // Android FLAT UI
+    compile 'com.github.eluleci:flatui:2.0.0'
+
+    // Android OrmLite
+    compile 'com.j256.ormlite:ormlite-android:4.48'
+    compile 'com.j256.ormlite:ormlite-core:4.48'
+
+    // Bootstrap UI
+    compile project(':AndroidBootstrap')
+
+    compile 'com.google.guava:guava:17.0'
+
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    compile 'com.android.support:appcompat-v7:19.+'
+}

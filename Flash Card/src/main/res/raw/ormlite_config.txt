@@ -1,0 +1,37 @@
+#
+# generated on 2014/05/20 11:52:05
+#
+# --table-start--
+dataClass=com.peter.flashcard.model.Definition
+tableName=DEFINITION
+# --table-fields-start--
+# --field-start--
+fieldName=word
+columnName=WORD
+# --field-end--
+# --field-start--
+fieldName=type
+columnName=TYPE
+# --field-end--
+# --field-start--
+fieldName=definition
+columnName=DEFINITION
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
+# --table-start--
+dataClass=com.peter.flashcard.model.Word
+tableName=WORD
+# --table-fields-start--
+# --field-start--
+fieldName=word
+columnName=WORD
+# --field-end--
+# --field-start--
+fieldName=list
+columnName=LIST
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
