@@ -1,7 +1,15 @@
 package com.peter.flashcard.model;
 
+import android.graphics.Color;
+import android.util.Log;
+
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.table.DatabaseTable;
+import com.peter.flashcard.R;
+import com.peter.flashcard.constant.ColorConstant;
+
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * Created by Peter on 5/20/2014.
@@ -38,4 +46,7 @@ public class Definition {
         this.definition = definition;
     }
 
+    public int getColor(){
+        return ColorConstant.colorMap.get(type);
+    }
 }

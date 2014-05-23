@@ -44,12 +44,14 @@
             android:scaleType="fitXY" />
 
         <LinearLayout
+            android:paddingTop="5dp"
             android:layout_width="fill_parent"
             android:layout_height="0dp"
             android:orientation="horizontal"
             android:layout_weight="1.2">
 
             <com.beardedhen.androidbootstrap.BootstrapButton
+                android:id="@+id/previousButton"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
                 android:text="Previous"
@@ -57,6 +59,7 @@
                 bootstrapbutton:bb_icon_left="fa-fast-backward"
                 bootstrapbutton:bb_type="success"/>
             <com.beardedhen.androidbootstrap.BootstrapButton
+                android:id="@+id/nextButton"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
                 android:text="Next"

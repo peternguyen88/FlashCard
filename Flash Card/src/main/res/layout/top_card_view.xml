@@ -10,6 +10,6 @@
         android:layout_height="match_parent"
         android:textSize="@dimen/word_size"
         android:text="Hello!"
-        android:id="@+id/wordView"
+        android:id="@+id/wordDefinition"
         android:gravity="center"/>
 </LinearLayout>

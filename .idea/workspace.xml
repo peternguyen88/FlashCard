@@ -34,821 +34,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2254133e-75d3-4ca5-b83a-6b20f8e1c741" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\abandon-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\abstract-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\abstract-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\access-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\access-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\accommodate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\accommodate-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\accumulate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\accumulate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\acknowledge-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\acknowledge-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\acquire-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\acquire-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\acquire-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\adapt-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\adapt-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\adequate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\adequate-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\adjust-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\adjust-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\advocate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\advocate-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\affect-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\affect-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\aggregate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\aggregate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\allocate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\allocate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\alter-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\alter-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\alter-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\ambiguous-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\analogy-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\analogy-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\analyse.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\annual-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\anticipate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\apparent-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\append-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\appreciate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\appreciate-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\approach-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\approach-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\appropriate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\approximate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\arbitrary-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\aspect-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\assess-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\assess-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\assign-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\assign-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\assume-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\attach-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\attach-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\attain-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\attribute-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\attribute-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\authority-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\authority-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\behalf-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\behalf-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\bias-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\bias-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\brief-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\bulk-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\bulk-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\capable-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\capacity-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\capacity-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\cease-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\cease-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\channel-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\channel-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\chart-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\chart-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\cite-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\cite-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\civil-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\civil-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\clarify-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\clarify-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\classic-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\classic-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\code-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\code-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\coherent-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\coincide-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\coincide-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\collapse-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\collapse-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\commence-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\commence-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\commission-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\commission-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\commit-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\communicate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\communicate-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\community-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\community-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\compatible-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\compensate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\compile-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\complement-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\component-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\compound-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\comprehensive-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\comprise-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\conceive-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\concentrate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\concept-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\conclude-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\concurrent-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\conduct-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\confer-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\confine-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\confirm-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\confirm-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\conform-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\conform-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\consent-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\considerable-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\consist-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\consist-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\constant-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\constitute-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\constrain-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\construct-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\construct-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\consult-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\consult-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\consume-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\consume-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\contact-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\contemporary-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\context-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\contract-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\contract-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\contradict-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\contrary-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\contrary-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\contribute-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\contribute-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\controversy-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\convene-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\convene-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\converse-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\convert-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\convince-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\convince-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\convince-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\cooperate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\cooperate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\cooperate-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\cooperate-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\core-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\core-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\correspond-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\create-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\create-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\criterion-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\crucial-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\culture-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\culture-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\currency-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\currency-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\cycle-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\cycle-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\debate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\debate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\decade-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\decline-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\decline-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\deduce-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\define-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\define-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\definite-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\definite-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\demonstrate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\demonstrate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\denote-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\deny-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\deny-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\depress-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\depress-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\design-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\design-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\detect-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\detect-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\device-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\device-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\devote-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\differentiate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\differentiate-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\dimension-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\diminish-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\discrete-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\discrete-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\displace-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\displace-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\display-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\display-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\dispose-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\dispose-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\distinct-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\distinct-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\distort-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\distort-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\distribute-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\distribute-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\diverse-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\diverse-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\document-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\document-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\domain-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\domain-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\draft-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\drama-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\drama-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\duration-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\duration-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\economy-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\economy-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\economy-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\element-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\element-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\eliminate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\eliminate-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\emerge-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\emerge-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\emphasis-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\emphasis-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\empirical-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\empirical-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\enable-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\enable-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\encounter-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\encounter-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\enforce-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\enforce-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\enhance-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\enhance-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\enormous-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\entity-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\entity-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\environment-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\environment-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\equate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\equip-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\equip-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\erode-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\erode-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\establish-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\estate-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\ethic-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\ethic-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\ethnic-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\ethnic-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\evaluate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\evaluate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\eventual-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\evident-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\evolve-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\exceed-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\exclude-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\exclude-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\expand-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\expert-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\expert-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\explicit-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\explicit-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\exploit-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\exploit-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\export-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\export-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\expose-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\expose-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\external-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\external-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\extract-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\extract-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\facilitate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\facilitate-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\factor-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\factor-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\feature-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\feature-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\federal-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\finance-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\finance-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\finite-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\finite-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\flexible-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\flexible-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\fluctuate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\fluctuate-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\focus-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\focus-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\format-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\format-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\formula-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\formula-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\forthcoming-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\forthcoming-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\foundation-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\foundation-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\framework-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\framework-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\function-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\function-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\fund-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\fund-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\fundamental-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\fundamental-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\furthermore-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\furthermore-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\gender-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\gender-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\generate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\generate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\generation-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\generation-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\globe-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\globe-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\goal-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\goal-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\grade-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\grade-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\grant-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\grant-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\guarantee-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\guarantee-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\guideline-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\hierarchy-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\highlight-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\highlight-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\identical-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\identical-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\identify-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\identify-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\ideology-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\ideology-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\ignorance-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\ignorance-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\image-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\image-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\immigrate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\immigrate-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\impact-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\impact-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\implement-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\implement-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\implicate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\implicate-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\implicit-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\imply-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\impose-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\impose-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\incentive-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\incentive-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\incidence-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\incidence-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\incline-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\incline-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\income-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\income-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\incorporate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\incorporate-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\indicate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\indicate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\individual-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\individual-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\induce-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\induce-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\inevitable-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\inevitable-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\infer-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\infer-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\infrastructure-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\infrastructure-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\inherent-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\inherent-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\initial-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\initial-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\initiate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\initiate-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\injure-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\injure-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\innovate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\innovate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\insert-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\insert-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\insight-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\insight-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\inspect-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\inspect-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\instance-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\instance-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\institute-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\institute-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\instruct-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\instruct-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\integral-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\integral-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\integrate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\integrate-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\integrity-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\integrity-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\intelligence-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\intelligence-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\interact-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\interact-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\intermediate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\intermediate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\internal-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\internal-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\interpret-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\interpret-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\interval-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\intervene-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\intervene-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\intrinsic-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\intrinsic-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\investigate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\investigate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\invoke-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\invoke-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\involve-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\involve-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\isolate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\isolate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\issue-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\issue-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\journal-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\journal-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\justify-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\justify-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\label-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\label-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\layer-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\layer-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\lecture-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\lecture-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\legal-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\legal-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\legislate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\legislate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\locate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\locate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\maintain-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\maintain-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\major-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\major-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\manipulate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\manipulate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\manual-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\margin-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\margin-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\mature-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\mature-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\mechanism-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\mechanism-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\mediate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\mediate-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\medical-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\medical-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\medium-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\medium-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\mental-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\mental-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\method-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\method-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\migrate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\minimal-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\minimal-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\minimum-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\minimum-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\minor-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\minor-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\mode-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\mode-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\modify-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\modify-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\monitor-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\monitor-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\motive-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\motive-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\mutual-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\mutual-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\neutral-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\neutral-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\nevertheless-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\nevertheless-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\nonetheless-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\nonetheless-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\norm-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\norm-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\normal-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\normal-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\notion-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\notion-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\notwithstanding-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\notwithstanding-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\nuclear-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\nuclear-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\objective-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\objective-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\obtain-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\obtain-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\obvious-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\obvious-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\occupy-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\occupy-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\occur-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\occur-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\offset-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\offset-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\ongoing-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\ongoing-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\option-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\option-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\outcome-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\outcome-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\output-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\output-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\overall-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\overall-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\overlap-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\overlap-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\panel-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\panel-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\paradigm-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\paradigm-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\parallel-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\parallel-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\participate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\participate-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\passive-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\passive-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\perceive-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\perceive-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\period-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\period-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\persist-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\persist-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\perspective-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\perspective-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\phase-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\phase-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\phenomenon-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\phenomenon-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\philosophy-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\philosophy-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\physical-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\physical-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\policy-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\policy-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\portion-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\portion-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\pose-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\pose-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\positive-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\positive-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\potential-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\potential-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\practitioner-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\practitioner-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\precede-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\precede-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\precise-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\predict-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\predict-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\predominant-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\predominant-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\preliminary-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\presume-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\presume-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\previous-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\primary-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\primary-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\prime-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\principal-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\principal-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\principle-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\principle-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\principle-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\principle-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\prior-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\prior-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\priority-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\priority-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\proceed-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\proceed-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\process-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\process-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\professional-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\professional-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\prohibit-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\prohibit-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\project-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\project-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\promote-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\promote-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\proportion-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\prospect-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\prospect-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\protocol-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\protocol-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\psychology-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\psychology-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\publication-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\publish-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\publish-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\purchase-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\pursue-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\qualitative-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\radical-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\radical-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\random-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\random-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\range-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\range-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\ratio-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\ratio-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\rational-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\rational-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\react-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\react-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\recover-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\recover-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\refine-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\refine-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\regime-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\regime-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\region-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\region-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\regulate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\regulate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\reinforce-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\reinforce-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\reinforce-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\reject-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\reject-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\relax-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\relax-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\release-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\release-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\relevant-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\relevant-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\reluctance-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\reluctance-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\rely-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\rely-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\remove-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\remove-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\require-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\require-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\research-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\research-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\reside-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\reside-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\resource-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\resource-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\respond-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\respond-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\restore-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\restore-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\restrain-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\restrain-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\restrict-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\restrict-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\retain-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\retain-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\reveal-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\reveal-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\revenue-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\revenue-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\reverse-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\reverse-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\revise-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\revise-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\rigid-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\rigid-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\role-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\role-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\route-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\route-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\scenario-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\scenario-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\schedule-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\schedule-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\scheme-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\scheme-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\scope-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\section-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\section-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\sector-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\sector-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\secure-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\sequence-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\sequence-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\series-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\series-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\shift-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\shift-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\significant-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\significant-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\simulate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\simulate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\so-called-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\source-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\source-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\specific-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\specific-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\specify-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\specify-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\sphere-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\sphere-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\stable-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\stable-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\statistic-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\statistic-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\status-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\status-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\straightforward-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\straightforward-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\strategy-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\strategy-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\stress-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\stress-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\structure-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\structure-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\style-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\style-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\submit-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\subordinate-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\subordinate-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\subsequent-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\subsequent-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\subsidy-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\subsidy-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\substitute-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\substitute-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\successor-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\successor-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\sufficient-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\sufficient-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\summary-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\summary-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\supplement-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\supplement-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\survey-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\survey-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\survive-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\survive-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\suspend-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\suspend-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\symbol-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\symbol-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\target-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\task-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\task-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\technique-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\technology-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\technology-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\temporary-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\temporary-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\text-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\text-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\theme-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\theme-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\theory-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\thereby-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\thesis-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\thesis-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\topic-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\topic-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\trace-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\trace-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\tradition-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\tradition-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\transfer-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\transfer-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\transfer-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\transform-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Working\Android\GitHub\FlashCard\Flash Card\src\main\assets\images\transform-3.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/approach.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/approach.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/assess.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/assess.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/authority.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/authority.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/benefit.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/benefit.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/concept.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/concept.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/constitute.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/constitute.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/context.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/context.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/derive.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/derive.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/distribute.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/distribute.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/economy.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/economy.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/environment.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/environment.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/estimate.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/estimate.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/finance.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/finance.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/flashCardData.sqlite" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/flashCardData.sqlite" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/identify.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/identify.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/indicate.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/indicate.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/occur.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/occur.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/policy.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/policy.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/respond.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/respond.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/sector.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/sector.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/similar.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/similar.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/source.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/source.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/assets/images/specific.jpg" afterPath="$PROJECT_DIR$/Flash Card/src/main/assets/images/specific.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/AndroidBootstrap/build/source/buildConfig/debug/com/beardedhen/androidbootstrap/BuildConfig.java" afterPath="$PROJECT_DIR$/Libraries/AndroidBootstrap/build/source/buildConfig/debug/com/beardedhen/androidbootstrap/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Libraries/AndroidBootstrap/build/source/buildConfig/release/com/beardedhen/androidbootstrap/BuildConfig.java" afterPath="$PROJECT_DIR$/Libraries/AndroidBootstrap/build/source/buildConfig/release/com/beardedhen/androidbootstrap/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/constant/ColorConstant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/htmlcleaner_2_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jdom2_2_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jsoup_1_7_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Flash Card/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/BottomCardView.java" afterPath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/BottomCardView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/content/ContentProvider.java" afterPath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/content/ContentProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/model/Definition.java" afterPath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/model/Definition.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/Flash Card.iml" afterPath="$PROJECT_DIR$/Flash Card/Flash Card.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/FlashCardFragment.java" afterPath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/FlashCardFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Peter.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Peter.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/SettingActivity.java" afterPath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/SettingActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/TopCardView.java" afterPath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/TopCardView.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/model/Word.java" afterPath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/model/Word.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/androidannotations_api_3_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/androidannotations_api_3_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/ormlite_android_4_48.xml" afterPath="$PROJECT_DIR$/.idea/libraries/ormlite_android_4_48.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/ormlite_core_4_48.xml" afterPath="$PROJECT_DIR$/.idea/libraries/ormlite_core_4_48.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/fragment/WordPopupFragment.java" afterPath="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/fragment/WordPopupFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_19_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_19_1_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/res/drawable/bg_card.xml" afterPath="$PROJECT_DIR$/Flash Card/src/main/res/drawable/bg_card.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/res/layout/bottom_card_view.xml" afterPath="$PROJECT_DIR$/Flash Card/src/main/res/layout/bottom_card_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/build.gradle" afterPath="$PROJECT_DIR$/Flash Card/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/Flash Card/src/main/res/values/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/flatui_2_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/flatui_2_0_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/res/layout/fragment_flash_card.xml" afterPath="$PROJECT_DIR$/Flash Card/src/main/res/layout/fragment_flash_card.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/res/layout-land/fragment_flash_card.xml" afterPath="$PROJECT_DIR$/Flash Card/src/main/res/layout-land/fragment_flash_card.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/Flash Card/src/main/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/res/layout/top_card_view.xml" afterPath="$PROJECT_DIR$/Flash Card/src/main/res/layout/top_card_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Card/src/main/res/layout/word_definition_popup_fragment.xml" afterPath="$PROJECT_DIR$/Flash Card/src/main/res/layout/word_definition_popup_fragment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FlashCard.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -916,21 +129,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FlashCardFragment.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="FlashCardFragment.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/FlashCardFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="818" max-vertical-offset="1683">
-              <caret line="96" column="51" selection-start-line="96" selection-start-column="39" selection-end-line="96" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.43418467" vertical-offset="1258" max-vertical-offset="1870">
+              <caret line="112" column="50" selection-start-line="112" selection-start-column="50" selection-end-line="112" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/values/styles.xml">
+      <file leaf-file-name="Definition.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/model/Definition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flash Card/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="561">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="word_definition_popup_fragment.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/word_definition_popup_fragment.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.7777777" vertical-offset="0" max-vertical-offset="340">
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordPopupFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/fragment/WordPopupFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="970" max-vertical-offset="1785">
+              <caret line="82" column="64" selection-start-line="82" selection-start-column="64" selection-end-line="82" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flash Card/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="258" max-vertical-offset="1258">
+              <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -939,74 +205,18 @@
       <file leaf-file-name="colorsFlatUi.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/values/colorsFlatUi.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="476">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="476">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_flash_card.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/fragment_flash_card.xml">
+      <file leaf-file-name="BottomCardView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/BottomCardView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1394">
-              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_flash_card.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/activity_flash_card.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="425">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContentProvider.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/content/ContentProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Word.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/model/Word.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36417323" vertical-offset="257" max-vertical-offset="765">
-              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SettingActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/SettingActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="903" max-vertical-offset="1445">
-              <caret line="98" column="48" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AWLApplication.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/AWLApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="408">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1105" max-vertical-offset="1326">
+              <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -2192,7 +1402,7 @@
       <map>
         <entry key="$PROJECT_DIR$/../../Game/Download Sources/libgdx-demo-superjumper-master" value="9784444796000" />
         <entry key="$PROJECT_DIR$/../../Game/running-around" value="5599477660180" />
-        <entry key="$PROJECT_DIR$" value="5601825760766" />
+        <entry key="$PROJECT_DIR$" value="5602776576945" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2527,11 +1737,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Flash Card/src/main/res/drawable/bg_card.xml" />
         <option value="$PROJECT_DIR$/Flash Card/build/source/apt/debug/com/peter/flashcard/FlashCard_.java" />
         <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/FlashCard.java" />
         <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/content/Word.java" />
-        <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/content/ContentProvider.java" />
         <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/persistence/DatabaseConfigUtil.java" />
         <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/persistence/DatabaseHelper.java" />
         <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/pref/sharedPref.java" />
@@ -2539,18 +1747,28 @@
         <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/pref/SharedPrefs.java" />
         <option value="$PROJECT_DIR$/Flash Card/src/main/res/layout/activity_setting.xml" />
         <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/AWLApplication.java" />
-        <option value="$PROJECT_DIR$/Flash Card/build.gradle" />
         <option value="$PROJECT_DIR$/Flash Card/src/main/res/layout/top_card_view.xml" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/res/values/colorsFlatUi.xml" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/res/layout/fragment_flash_card.xml" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/res/layout/activity_flash_card.xml" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/SettingActivity.java" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/content/ContentProvider.java" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/res/layout-land/fragment_flash_card.xml" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/res/drawable/bg_card.xml" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/TopCardView.java" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/constant/ColorConstant.java" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/res/layout/bottom_card_view.xml" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/model/Word.java" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/BottomCardView.java" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/model/Definition.java" />
+        <option value="$PROJECT_DIR$/Flash Card/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/FlashCardFragment.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/Flash Card/build.gradle" />
         <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/fragment/WordPopupFragment.java" />
         <option value="$PROJECT_DIR$/Flash Card/src/main/res/layout/word_definition_popup_fragment.xml" />
-        <option value="$PROJECT_DIR$/Flash Card/src/main/res/values/colorsFlatUi.xml" />
-        <option value="$PROJECT_DIR$/Flash Card/src/main/res/layout/activity_flash_card.xml" />
-        <option value="$PROJECT_DIR$/Flash Card/src/main/res/layout/fragment_flash_card.xml" />
-        <option value="$PROJECT_DIR$/Flash Card/src/main/res/layout-land/fragment_flash_card.xml" />
-        <option value="$PROJECT_DIR$/Flash Card/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/SettingActivity.java" />
-        <option value="$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/model/Word.java" />
       </list>
     </option>
   </component>
@@ -2605,6 +1823,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -2642,117 +1861,8 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlashCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlashCard" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flash Card" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlashCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlashCard" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flash Card" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flashcard" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlashCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlashCard" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flash Card" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlashCard" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FlashCard" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Flash Card" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2767,7 +1877,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="LG-E975-de52afe4" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="0019a033276e3f" />
     <property name="FullScreen" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
@@ -2952,7 +2062,7 @@
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
@@ -2987,6 +2097,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration" myUseAcceleration="nothing">
     <configuration>C:\Users\Peter\AppData\Roaming\Subversion</configuration>
   </component>
@@ -3000,21 +2115,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2782516" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.75586355" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40444446" sideWeight="0.23720682" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40333334" sideWeight="0.22974414" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.41577825" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40444446" sideWeight="0.7627932" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40333334" sideWeight="0.77025586" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -3022,11 +2138,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1988273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.70255864" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5836887" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2782516" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33597285" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -3050,92 +2165,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/content/ContentProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="391">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/activity_flash_card.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="425">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/activity_setting.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="595">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/drawable/bg_card.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="595">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/FlashCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="680">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/FlashCardFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1360">
-          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/fragment_flash_card.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="97" max-vertical-offset="646">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/content/ContentProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="391">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/activity_flash_card.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="425">
-          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/drawable/bg_card.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
@@ -3161,7 +2194,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="340">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3195,24 +2227,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/drawable/bg_card.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Flash Card/build/source/apt/debug/com/peter/flashcard/view/TopCardView_.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34727272" vertical-offset="81" max-vertical-offset="1581">
           <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/TopCardView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3252174" vertical-offset="0" max-vertical-offset="575">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -3228,13 +2246,6 @@
         <state vertical-scroll-proportion="0.26608697" vertical-offset="0" max-vertical-offset="575">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/build/source/r/debug/com/peter/flashcard/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.951583" vertical-offset="3264" max-vertical-offset="49589">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -3294,20 +2305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <caret line="7" column="51" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="139" max-vertical-offset="1071">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/activity_setting.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0665083" vertical-offset="61" max-vertical-offset="612">
@@ -3340,47 +2337,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/top_card_view.xml">
+    <entry file="file://$APPLICATION_HOME_DIR$/sdk/sources/android-19/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16152018" vertical-offset="0" max-vertical-offset="421">
-          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/fragment/WordPopupFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.33267716" vertical-offset="3367" max-vertical-offset="7004">
+          <caret line="240" column="33" selection-start-line="240" selection-start-column="33" selection-end-line="240" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/word_definition_popup_fragment.xml">
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="74" max-vertical-offset="1445">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/AWLApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/content/ContentProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="629">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/build/source/apt/debug/com/peter/flashcard/view/BottomCardView_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48861283" vertical-offset="1209" max-vertical-offset="1717">
+          <caret line="96" column="30" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/activity_flash_card.xml">
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout-land/fragment_flash_card.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="425">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="571" max-vertical-offset="1700">
+          <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
           <folding />
         </state>
       </provider>
@@ -3388,12 +2392,84 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout-land/fragment_flash_card.xml">
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/activity_flash_card.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5966736" vertical-offset="1005" max-vertical-offset="1666">
-          <caret line="76" column="43" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="425">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/drawable/bg_card.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="561">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/fragment_flash_card.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.814815" vertical-offset="95" max-vertical-offset="1445">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/sdk/sources/android-19/android/widget/TextView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33202356" vertical-offset="1378" max-vertical-offset="151130">
+          <caret line="227" column="13" selection-start-line="227" selection-start-column="13" selection-end-line="227" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/top_card_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5555553" vertical-offset="0" max-vertical-offset="340">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/TopCardView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/constant/ColorConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/SettingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="438" max-vertical-offset="1972">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
-            <element signature="e#3073#3103#0" expanded="false" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/bottom_card_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.185185" vertical-offset="130" max-vertical-offset="714">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="40" />
+          <folding>
+            <element signature="e#746#775#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3401,10 +2477,81 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/fragment_flash_card.xml">
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/model/Word.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="1394">
-          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="664" max-vertical-offset="1241">
+          <caret line="91" column="65" selection-start-line="91" selection-start-column="65" selection-end-line="91" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/BottomCardView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="426" max-vertical-offset="1037">
+          <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/values/colorsFlatUi.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jdom/jdom2/2.0.5/2001db51c131e555bafdb77fc52af6a9408c505e/jdom2-2.0.5.jar!/META-INF/LICENSE.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="258" max-vertical-offset="1258">
+          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.7.3/b783d347815471821faaa7ae7a4f0d2fec30966e/jsoup-1.7.3-sources.jar!/org/jsoup/nodes/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15424" max-vertical-offset="18870">
+          <caret line="955" column="5" selection-start-line="955" selection-start-column="5" selection-end-line="955" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/fragment/WordPopupFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="970" max-vertical-offset="1785">
+          <caret line="82" column="64" selection-start-line="82" selection-start-column="64" selection-end-line="82" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/layout/word_definition_popup_fragment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.7777777" vertical-offset="0" max-vertical-offset="340">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -3412,58 +2559,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/values/colorsFlatUi.xml">
+    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/model/Definition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="154" max-vertical-offset="663">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/view/FlashCardFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="818" max-vertical-offset="1683">
-          <caret line="96" column="51" selection-start-line="96" selection-start-column="39" selection-end-line="96" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/SettingActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="903" max-vertical-offset="1445">
-          <caret line="98" column="48" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/content/ContentProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/sdk/sources/android-19/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33267716" vertical-offset="3367" max-vertical-offset="7004">
-          <caret line="240" column="33" selection-start-line="240" selection-start-column="33" selection-end-line="240" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flash Card/src/main/java/com/peter/flashcard/model/Word.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36417323" vertical-offset="257" max-vertical-offset="765">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.43418467" vertical-offset="1258" max-vertical-offset="1870">
+          <caret line="112" column="50" selection-start-line="112" selection-start-column="50" selection-end-line="112" selection-end-column="50" />
           <folding />
         </state>
       </provider>
