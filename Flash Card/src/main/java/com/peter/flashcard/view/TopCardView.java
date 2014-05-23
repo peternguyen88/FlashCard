@@ -22,7 +22,7 @@ import org.androidannotations.annotations.ViewById;
 @EViewGroup(R.layout.top_card_view)
 public class TopCardView extends LinearLayout{
 
-    @ViewById
+    @ViewById(R.id.wordDefinition)
     public TextView wordView;
 
     @ViewById

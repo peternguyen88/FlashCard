@@ -46,12 +46,14 @@
                     android:layout_height="fill_parent"
                     android:text="Previous"
                     android:layout_weight="1"
+                    android:id="@+id/previousButton"
                     bootstrapbutton:bb_icon_left="fa-fast-backward"
                     bootstrapbutton:bb_type="success"/>
                 <com.beardedhen.androidbootstrap.BootstrapButton
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
                     android:text="Next"
+                    android:id="@+id/nextButton"
                     android:layout_weight="1"
                     bootstrapbutton:bb_icon_right="fa-fast-forward"
                     bootstrapbutton:bb_type="success"/>

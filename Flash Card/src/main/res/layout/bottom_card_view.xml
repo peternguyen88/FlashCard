@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/wordView"
+        android:id="@+id/wordType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:background="@color/flatui_amethyst"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"/>
+
+    <TextView
+        android:id="@+id/wordDefinition"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:textSize="@dimen/word_definition_size"
         android:gravity="center"
+        android:clickable="true"
         android:text="Normal Text"/>
-</LinearLayout>
+
+    <TextView
+        android:id="@+id/definitionOrder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_alignParentRight="true"
+        android:textColor="@android:color/white"
+        android:background="@color/flatui_concrete"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"/>
+</RelativeLayout>

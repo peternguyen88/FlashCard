@@ -28,8 +28,14 @@ public class Word{
     List<String> filePaths = new ArrayList<String>();
     List<Definition> definitions = new ArrayList<Definition>();
 
+    private int currentDefinitionIndex;
+
     public void resetList(){
         filePaths = new ArrayList<String>();
+    }
+
+    public int getList() {
+        return list;
     }
 
     public String getWord() {
@@ -40,8 +46,30 @@ public class Word{
         this.word = word;
     }
 
-    public String getDefinition() {
-        return definitions.get(random.nextInt(definitions.size())).getDefinition();
+    public String getDefinitionText() {
+        currentDefinitionIndex = random.nextInt(definitions.size());
+        return definitions.get(currentDefinitionIndex).getDefinition();
+    }
+
+    public String nextDefinitionText(){
+        currentDefinitionIndex++;
+        if(currentDefinitionIndex==definitions.size()) currentDefinitionIndex = 0;
+        return definitions.get(currentDefinitionIndex).getDefinition();
+    }
+
+    public Definition getRandomDefinition() {
+        currentDefinitionIndex = random.nextInt(definitions.size());
+        return definitions.get(currentDefinitionIndex);
+    }
+
+    public Definition getCurrentDefinition() {
+        return definitions.get(currentDefinitionIndex);
+    }
+
+    public Definition nextDefinition(){
+        currentDefinitionIndex++;
+        if(currentDefinitionIndex==definitions.size()) currentDefinitionIndex = 0;
+        return definitions.get(currentDefinitionIndex);
     }
 
     public List<String> getFilePaths() {
@@ -58,5 +86,9 @@ public class Word{
 
     public void setDefinitions(List<Definition> definitions) {
         this.definitions = definitions;
+    }
+
+    public String getDefinitionOrder(){
+        return (currentDefinitionIndex+1)+"/"+(definitions.size());
     }
 }

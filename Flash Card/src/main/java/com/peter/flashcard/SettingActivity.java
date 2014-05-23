@@ -3,6 +3,7 @@ package com.peter.flashcard;
 import android.app.Activity;
 import android.content.res.AssetManager;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.widget.SeekBar;
 
 import com.cengalabs.flatui.FlatUI;
@@ -31,7 +32,7 @@ import java.util.List;
 
 @EActivity(R.layout.activity_setting)
 @OptionsMenu(R.menu.setting)
-public class SettingActivity extends Activity {
+public class SettingActivity extends ActionBarActivity {
 
     @Pref
     SharedPrefs_ prefs;
@@ -73,15 +74,19 @@ public class SettingActivity extends Activity {
             List<Word> wordList = wordDao.queryBuilder().orderBy("LIST",true).orderBy("WORD",true).query();
             List<Definition> definitionList = definitionDao.queryForAll();
 
-            ListMultimap<String, Definition> multimap = ArrayListMultimap.create();
+            ListMultimap<String, Definition> wordDefinitionMap = ArrayListMultimap.create();
+            ListMultimap<Integer,Word> awlMap = ArrayListMultimap.create();
 
             for(Definition definition : definitionList){
-                multimap.put(definition.getWord(),definition);
+                wordDefinitionMap.put(definition.getWord(), definition);
             }
 
             for(Word word : wordList){
-                word.setDefinitions(multimap.get(word.getWord()));
+                word.setDefinitions(wordDefinitionMap.get(word.getWord()));
+                awlMap.put(word.getList(),word);
             }
+
+            ContentProvider.setNUMBER_OF_WORD_LIST(awlMap.keySet().size());
 
             ContentProvider.setWordList(wordList);
             loadImages();

@@ -3,12 +3,12 @@ package com.peter.flashcard.view;
 import android.app.Activity;
 import android.app.Fragment;
 import android.content.res.AssetManager;
+import android.content.res.Configuration;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.ImageView;
-import android.widget.Toast;
 
 import com.peter.flashcard.R;
 import com.peter.flashcard.content.ContentProvider;
@@ -20,7 +20,6 @@ import org.androidannotations.annotations.Click;
 import org.androidannotations.annotations.EFragment;
 import org.androidannotations.annotations.UiThread;
 import org.androidannotations.annotations.ViewById;
-import org.androidannotations.api.BackgroundExecutor;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -65,7 +64,7 @@ public class FlashCardFragment extends Fragment {
     public void periodicalUpdate() {
         try {
             while (true) {
-                updateFlashCard();
+                updateFlashCard(ContentProvider.nextWord());
                 Thread.sleep(sleepingTime);
             }
         } catch (Exception e) {
@@ -76,22 +75,27 @@ public class FlashCardFragment extends Fragment {
     @Override
     public void onStop() {
         super.onStop();
-        BackgroundExecutor.cancelAll(UPDATE_THREAD,true);
-        Log.v("Check", "STOP THREAD!");
+//        BackgroundExecutor.cancelAll(UPDATE_THREAD,true);
+
     }
 
     @Override
     public void onStart() {
         super.onStart();
-        Log.v("Check", "START THREAD!");
-        periodicalUpdate();
+//        periodicalUpdate();
+        updateFlashCard(ContentProvider.currentWord());
+    }
+
+    @Override
+    public void onConfigurationChanged(Configuration newConfig) {
+        super.onConfigurationChanged(newConfig);
+        updateFlashCard(ContentProvider.currentWord());
     }
 
     @UiThread
-    public void updateFlashCard() {
-        Word word = ContentProvider.nextWord();
+    public void updateFlashCard(Word word) {
         top_card_view.wordView.setText(word.getWord());
-        bottom_card_view.wordView.setText(word.getDefinition());
+        bottom_card_view.setWord(word);
         if(!word.getFilePaths().isEmpty()){
             try {
                 String filePath = word.getFilePaths().get(random.nextInt(word.getFilePaths().size()));
@@ -113,7 +117,17 @@ public class FlashCardFragment extends Fragment {
 
     @Click(R.id.top_card_view)
     public void showPopup(){
-        WordPopupFragment.instance().show(getFragmentManager(), WORD_POPUP_TAG);
+        WordPopupFragment.instance(ContentProvider.currentWord()).show(getFragmentManager(), WORD_POPUP_TAG);
+    }
+
+    @Click(R.id.previousButton)
+    public void previousWord(){
+        updateFlashCard(ContentProvider.previousWord());
+    }
+
+    @Click(R.id.nextButton)
+    public void nextWord(){
+        updateFlashCard(ContentProvider.nextWord());
     }
 
 }
