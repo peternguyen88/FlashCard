@@ -71,22 +71,22 @@ public class SettingActivity extends ActionBarActivity {
 
     private void loadWords() {
         try {
-            List<Word> wordList = wordDao.queryBuilder().orderBy("LIST",true).orderBy("WORD",true).query();
+            List<Word> wordList = wordDao.queryBuilder().orderBy("LIST", true).orderBy("WORD", true).query();
             List<Definition> definitionList = definitionDao.queryForAll();
 
             ListMultimap<String, Definition> wordDefinitionMap = ArrayListMultimap.create();
-            ListMultimap<Integer,Word> awlMap = ArrayListMultimap.create();
+            ListMultimap<Integer, Word> awlMap = ArrayListMultimap.create();
 
-            for(Definition definition : definitionList){
+            for (Definition definition : definitionList) {
                 wordDefinitionMap.put(definition.getWord(), definition);
             }
 
-            for(Word word : wordList){
+            for (Word word : wordList) {
                 word.setDefinitions(wordDefinitionMap.get(word.getWord()));
-                awlMap.put(word.getList(),word);
+                awlMap.put(word.getList(), word);
             }
 
-            ContentProvider.setNUMBER_OF_WORD_LIST(awlMap.keySet().size());
+            ContentProvider.setAwlMap(awlMap);
 
             ContentProvider.setWordList(wordList);
             loadImages();
@@ -99,12 +99,12 @@ public class SettingActivity extends ActionBarActivity {
         AssetManager assetManager = getAssets();
         List<String> imagesList = Arrays.asList(assetManager.list("images"));
 
-        for(Word word : ContentProvider.getWordList()){
+        for (Word word : ContentProvider.getWordList()) {
             word.resetList();
-                String fileName = word.getWord()+".jpg";
-                if(imagesList.contains(fileName)){
-                    word.getFilePaths().add("images/"+fileName);
-                }
+            String fileName = word.getWord() + ".jpg";
+            if (imagesList.contains(fileName)) {
+                word.getFilePaths().add("images/" + fileName);
+            }
         }
     }
 }

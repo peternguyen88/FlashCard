@@ -49,6 +49,7 @@ public class ContentProvider {
     }
 
     public static void setAwlMap(ListMultimap<Integer, Word> awlMap) {
+        ContentProvider.setNUMBER_OF_WORD_LIST(awlMap.keySet().size());
         ContentProvider.awlMap = awlMap;
     }
 }
