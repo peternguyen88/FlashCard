@@ -4,4 +4,8 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="word_size">45dp</dimen>
     <dimen name="word_definition_size">17dp</dimen>
+
+    <!-- sliding menu -->
+    <dimen name="slidingmenu_shadow_width">15dp</dimen>
+    <dimen name="slidingmenu_width">200dp</dimen>
 </resources>

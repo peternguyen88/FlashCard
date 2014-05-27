@@ -1,15 +1,8 @@
 package com.peter.flashcard;
 
 import android.app.Activity;
-import android.content.res.Configuration;
-import android.os.Bundle;
-import android.support.v4.app.ActionBarDrawerToggle;
-import android.support.v4.widget.DrawerLayout;
-import android.view.MenuItem;
-import android.view.View;
-import android.widget.ListView;
-import android.widget.Toast;
 
+import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
 import com.peter.flashcard.adapter.DrawerAdapter;
 import com.peter.flashcard.view.FlashCardFragment;
 
@@ -18,9 +11,8 @@ import org.androidannotations.annotations.Bean;
 import org.androidannotations.annotations.EActivity;
 import org.androidannotations.annotations.Extra;
 import org.androidannotations.annotations.FragmentById;
-import org.androidannotations.annotations.ItemClick;
+import org.androidannotations.annotations.OptionsItem;
 import org.androidannotations.annotations.OptionsMenu;
-import org.androidannotations.annotations.ViewById;
 
 @EActivity(R.layout.activity_flash_card)
 @OptionsMenu(R.menu.flash_card)
@@ -32,68 +24,39 @@ public class FlashCard extends Activity {
     @Bean
     DrawerAdapter drawerAdapter;
 
-    @ViewById(R.id.left_drawer)
-    ListView drawerList;
-
-    @ViewById(R.id.drawer_layout)
-    DrawerLayout mDrawerLayout;
-
-    private ActionBarDrawerToggle mDrawerToggle;
-
     @Extra
     int sleepingTime;
 
+    private SlidingMenu slidingMenu;
+
     @AfterViews
-    public void afterView(){
-        drawerList.setAdapter(drawerAdapter);
-        mDrawerToggle = new FlashCardActionBarDrawerToggle(this,mDrawerLayout,R.drawable.ic_drawer,R.string.drawer_open,R.string.drawer_close);
+    public void initSlidingMenu(){
+        slidingMenu = new SlidingMenu(this);
 
-        mDrawerLayout.setDrawerListener(mDrawerToggle);
+        slidingMenu.setMode(SlidingMenu.LEFT);
+        slidingMenu.setTouchModeAbove(SlidingMenu.TOUCHMODE_FULLSCREEN);
+        slidingMenu.setShadowWidthRes(R.dimen.slidingmenu_shadow_width);
+        slidingMenu.setShadowDrawable(R.drawable.shadow);
+        slidingMenu.setBehindWidthRes(R.dimen.slidingmenu_width);
+        slidingMenu.setFadeDegree(0.35f);
+        slidingMenu.attachToActivity(this, SlidingMenu.SLIDING_CONTENT);
+        slidingMenu.setMenu(R.layout.slide_drawer);
+
         getActionBar().setDisplayHomeAsUpEnabled(true);
-        getActionBar().setHomeButtonEnabled(true);
-    }
-
-    @ItemClick(R.id.left_drawer)
-    void listItemClicked(Integer list) {
-        Toast.makeText(this, list, Toast.LENGTH_LONG).show();
-    }
-
-    // --- For Handling Drawer Icon on Action Bar ---- //
-    @Override
-    protected void onPostCreate(Bundle savedInstanceState) {
-        super.onPostCreate(savedInstanceState);
-        mDrawerToggle.syncState();
     }
 
     @Override
-    public void onConfigurationChanged(Configuration newConfig) {
-        super.onConfigurationChanged(newConfig);
-        mDrawerToggle.onConfigurationChanged(newConfig);
+    public void onBackPressed() {
+        if(slidingMenu.isMenuShowing()){
+            slidingMenu.toggle();
+        }
+        else {
+            super.onBackPressed();
+        }
     }
 
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        if(mDrawerToggle.onOptionsItemSelected(item)){
-            return true;
-        }
-        return super.onOptionsItemSelected(item);
-    }
-
-    private class FlashCardActionBarDrawerToggle extends ActionBarDrawerToggle{
-        public FlashCardActionBarDrawerToggle(Activity activity, DrawerLayout drawerLayout, int drawerImageRes, int openDrawerContentDescRes, int closeDrawerContentDescRes) {
-            super(activity, drawerLayout, drawerImageRes, openDrawerContentDescRes, closeDrawerContentDescRes);
-        }
-
-        @Override
-        public void onDrawerClosed(View drawerView) {
-            super.onDrawerClosed(drawerView);
-            getActionBar().setTitle("Flash Card");
-        }
-
-        @Override
-        public void onDrawerOpened(View drawerView) {
-            super.onDrawerOpened(drawerView);
-            getActionBar().setTitle("Drawer Title");
-        }
+    @OptionsItem(android.R.id.home)
+    public void toggleSlidingMenu(){
+        slidingMenu.toggle();
     }
 }
