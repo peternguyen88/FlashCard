@@ -21,9 +21,6 @@ public class FlashCard extends Activity {
     @FragmentById
     FlashCardFragment flashCardFragment;
 
-    @Bean
-    DrawerAdapter drawerAdapter;
-
     @Extra
     int sleepingTime;
 
