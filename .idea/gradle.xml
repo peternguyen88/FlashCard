@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Flash Card" />
             <option value="$PROJECT_DIR$/Libraries/AndroidBootstrap" />
+            <option value="$PROJECT_DIR$/Libraries/SlidingMenu" />
           </set>
         </option>
       </GradleProjectSettings>

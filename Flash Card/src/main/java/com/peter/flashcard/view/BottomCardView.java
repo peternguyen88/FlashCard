@@ -16,7 +16,7 @@ import org.androidannotations.annotations.ViewById;
 /**
  * Created by Peter on 5/14/2014.
  */
-@EViewGroup(R.layout.bottom_card_view)
+@EViewGroup(R.layout.view_bottom_card)
 public class BottomCardView extends LinearLayout {
 
     @ViewById(R.id.wordDefinition)

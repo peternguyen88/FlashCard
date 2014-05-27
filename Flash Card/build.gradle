@@ -53,6 +53,7 @@ dependencies {
 
     // Bootstrap UI
     compile project(':AndroidBootstrap')
+    compile project(':SlidingMenu')
 
     // Google Guava and Apache Commons Lang
     compile 'com.google.guava:guava:17.0'

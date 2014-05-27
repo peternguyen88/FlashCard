@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Libraries/AndroidBootstrap/AndroidBootstrap.iml" filepath="$PROJECT_DIR$/Libraries/AndroidBootstrap/AndroidBootstrap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flash Card/Flash Card.iml" filepath="$PROJECT_DIR$/Flash Card/Flash Card.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlashCard.iml" filepath="$PROJECT_DIR$/FlashCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Libraries/SlidingMenu/SlidingMenu.iml" filepath="$PROJECT_DIR$/Libraries/SlidingMenu/SlidingMenu.iml" />
     </modules>
   </component>
 </project>

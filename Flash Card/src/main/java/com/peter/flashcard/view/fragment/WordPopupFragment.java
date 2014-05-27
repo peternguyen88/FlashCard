@@ -1,14 +1,18 @@
 package com.peter.flashcard.view.fragment;
 
 import android.app.DialogFragment;
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
 import android.webkit.WebView;
-import android.webkit.WebViewClient;
 
 import com.peter.flashcard.R;
 import com.peter.flashcard.model.Word;
 
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.Background;
+import org.androidannotations.annotations.Click;
 import org.androidannotations.annotations.EFragment;
 import org.androidannotations.annotations.UiThread;
 import org.androidannotations.annotations.ViewById;
@@ -27,7 +31,7 @@ import java.util.StringTokenizer;
 /**
  * Created by Peter on 5/19/2014.
  */
-@EFragment(R.layout.word_definition_popup_fragment)
+@EFragment(R.layout.fragment_word_definition_popup)
 public class WordPopupFragment extends DialogFragment {
 
     public static final String VOCABULARY_URL = "http://www.vocabulary.com/dictionary/";
@@ -39,23 +43,25 @@ public class WordPopupFragment extends DialogFragment {
 
     public static WordPopupFragment instance(Word word) {
         WordPopupFragment popup = new WordPopupFragment_();
+        popup.setRetainInstance(true);
         popup.word = word;
         return popup;
     }
 
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        getDialog().setTitle(word.getWord());
+        return super.onCreateView(inflater, container, savedInstanceState);
+    }
+
     @AfterViews
     public void openDefinition() {
-//        definitionWebView.setWebViewClient(new WebViewClient(){
-//            @Override
-//            public boolean shouldOverrideUrlLoading(WebView view, String url) {
-//                return true;
-//            }
-//        });
-//        definitionWebView.getSettings().setJavaScriptEnabled(true);
-//        definitionWebView.loadUrl(VOCABULARY_URL+word.getWord()+"/");
-
-
         crawlWebContent();
+    }
+
+    @Click(R.id.closeButton)
+    public void closeDialog(){
+        this.dismiss();
     }
 
     @Background
@@ -93,7 +99,7 @@ public class WordPopupFragment extends DialogFragment {
                 style.remove();
             }
 
-            String html = definition.html();
+            String html = definition.html().replaceAll("display:none;","");
 
             displayResult(html);
 
