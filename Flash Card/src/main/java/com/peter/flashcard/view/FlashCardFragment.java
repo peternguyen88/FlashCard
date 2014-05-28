@@ -20,6 +20,7 @@ import org.androidannotations.annotations.Click;
 import org.androidannotations.annotations.EFragment;
 import org.androidannotations.annotations.UiThread;
 import org.androidannotations.annotations.ViewById;
+import org.androidannotations.api.BackgroundExecutor;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -31,6 +32,8 @@ public class FlashCardFragment extends Fragment {
     public static final String UPDATE_THREAD = "UPDATE_THREAD";
     public static final String WORD_POPUP_TAG = "WORD_POPUP";
     private int sleepingTime = 2000; // Default Card will stop for 2 seconds
+
+    private boolean isAutoRun;
 
     public void setSleepingTime(int sleepingTime) {
         this.sleepingTime = sleepingTime;
@@ -75,14 +78,32 @@ public class FlashCardFragment extends Fragment {
     @Override
     public void onStop() {
         super.onStop();
-//        BackgroundExecutor.cancelAll(UPDATE_THREAD,true);
+        BackgroundExecutor.cancelAll(UPDATE_THREAD,true);
 
     }
 
     @Override
     public void onStart() {
         super.onStart();
-//        periodicalUpdate();
+        if(isAutoRun){
+            periodicalUpdate();
+        }
+        updateFlashCard();
+    }
+
+    @Click(R.id.autoPlayButton)
+    public void autoRun(){
+        if(isAutoRun){
+            isAutoRun = false;
+            BackgroundExecutor.cancelAll(UPDATE_THREAD, true);
+        }
+        else{
+            isAutoRun = true;
+            periodicalUpdate();
+        }
+    }
+
+    public void updateFlashCard(){
         updateFlashCard(ContentProvider.currentWord());
     }
 

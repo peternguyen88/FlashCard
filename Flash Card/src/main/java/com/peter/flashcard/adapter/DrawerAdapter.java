@@ -7,6 +7,8 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import com.peter.flashcard.content.ContentProvider;
+import com.peter.flashcard.view.SlidingMenuItem;
+import com.peter.flashcard.view.SlidingMenuItem_;
 
 import org.androidannotations.annotations.AfterInject;
 import org.androidannotations.annotations.EBean;
@@ -24,11 +26,15 @@ public class DrawerAdapter extends BaseAdapter{
     @RootContext
     Context context;
 
-    List<Integer> wordLists;
+    List<String> wordLists;
 
     @AfterInject
     public void initAdapter(){
-        wordLists = new ArrayList<Integer>(ContentProvider.getAwlMap().keySet());
+        wordLists = new ArrayList<String>();
+        wordLists.add("All Words");
+        for(Integer i : ContentProvider.getAwlMap().keySet()){
+            wordLists.add("List " + i);
+        }
     }
 
     @Override
@@ -37,7 +43,7 @@ public class DrawerAdapter extends BaseAdapter{
     }
 
     @Override
-    public Integer getItem(int position) {
+    public String getItem(int position) {
         return wordLists.get(position);
     }
 
@@ -49,18 +55,19 @@ public class DrawerAdapter extends BaseAdapter{
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
 
-        TextView textView;
+        SlidingMenuItem slidingMenuItem;
+
         if (convertView == null) {
-            textView = new TextView(context);
-            bindTextView(textView,position);
+            slidingMenuItem = SlidingMenuItem_.build(context);
+            bindTextView(slidingMenuItem,position);
         } else {
-            textView = (TextView) convertView;
+            slidingMenuItem = (SlidingMenuItem) convertView;
         }
 
-        return textView;
+        return slidingMenuItem;
     }
 
-    private void bindTextView(TextView textView, int position){
-        textView.setText("List " + wordLists.get(position));
+    private void bindTextView(SlidingMenuItem sliding, int position){
+        sliding.setText(wordLists.get(position));
     }
 }

@@ -87,8 +87,9 @@ public class SettingActivity extends ActionBarActivity {
             }
 
             ContentProvider.setAwlMap(awlMap);
-
             ContentProvider.setWordList(wordList);
+            ContentProvider.setFullWordList(wordList);
+
             loadImages();
         } catch (Exception e) {
             e.printStackTrace();

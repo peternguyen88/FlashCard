@@ -1,8 +1,10 @@
 package com.peter.flashcard.content;
 
+import com.google.common.collect.Collections2;
 import com.google.common.collect.ListMultimap;
 import com.peter.flashcard.model.Word;
 
+import java.util.Collections;
 import java.util.List;
 
 /**
@@ -14,6 +16,7 @@ public class ContentProvider {
     static int currentIndex = 0;
 
     private static List<Word> wordList;
+    private static List<Word> fullWordList;
     private static ListMultimap<Integer,Word> awlMap;
 
     public static Word nextWord(){
@@ -38,6 +41,15 @@ public class ContentProvider {
 
     public static void setWordList(List<Word> wordList) {
         ContentProvider.wordList = wordList;
+        currentIndex = 0;
+    }
+
+    public static List<Word> getFullWordList() {
+        return fullWordList;
+    }
+
+    public static void setFullWordList(List<Word> fullWordList) {
+        ContentProvider.fullWordList = fullWordList;
     }
 
     public static void setNUMBER_OF_WORD_LIST(int NUMBER_OF_WORD_LIST) {
@@ -51,5 +63,25 @@ public class ContentProvider {
     public static void setAwlMap(ListMultimap<Integer, Word> awlMap) {
         ContentProvider.setNUMBER_OF_WORD_LIST(awlMap.keySet().size());
         ContentProvider.awlMap = awlMap;
+    }
+
+    public static void changeCurrentList(List<Word> words){
+        wordList = words;
+        currentIndex = 0;
+    }
+
+    public static void shuffleList(){
+        Collections.shuffle(wordList);
+    }
+
+    public static void order(boolean asc){
+        Collections.sort(wordList);
+        if(!asc){
+            Collections.reverse(wordList);
+        }
+    }
+
+    public static void order(){
+        order(true);
     }
 }

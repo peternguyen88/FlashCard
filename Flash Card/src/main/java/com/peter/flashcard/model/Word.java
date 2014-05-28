@@ -2,6 +2,7 @@ package com.peter.flashcard.model;
 
 import android.graphics.Bitmap;
 
+import com.google.common.collect.ComparisonChain;
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.misc.BaseDaoEnabled;
 import com.j256.ormlite.table.DatabaseTable;
@@ -9,13 +10,14 @@ import com.j256.ormlite.table.DatabaseTable;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 import java.util.Random;
 
 /**
  * Created by Peter on 5/15/2014.
  */
 @DatabaseTable(tableName = "WORD")
-public class Word{
+public class Word implements Comparable<Word> {
 
     private static Random random = new Random();
 
@@ -30,7 +32,7 @@ public class Word{
 
     private int currentDefinitionIndex;
 
-    public void resetList(){
+    public void resetList() {
         filePaths = new ArrayList<String>();
     }
 
@@ -51,9 +53,9 @@ public class Word{
         return definitions.get(currentDefinitionIndex).getDefinition();
     }
 
-    public String nextDefinitionText(){
+    public String nextDefinitionText() {
         currentDefinitionIndex++;
-        if(currentDefinitionIndex==definitions.size()) currentDefinitionIndex = 0;
+        if (currentDefinitionIndex == definitions.size()) currentDefinitionIndex = 0;
         return definitions.get(currentDefinitionIndex).getDefinition();
     }
 
@@ -66,9 +68,9 @@ public class Word{
         return definitions.get(currentDefinitionIndex);
     }
 
-    public Definition nextDefinition(){
+    public Definition nextDefinition() {
         currentDefinitionIndex++;
-        if(currentDefinitionIndex==definitions.size()) currentDefinitionIndex = 0;
+        if (currentDefinitionIndex == definitions.size()) currentDefinitionIndex = 0;
         return definitions.get(currentDefinitionIndex);
     }
 
@@ -88,7 +90,13 @@ public class Word{
         this.definitions = definitions;
     }
 
-    public String getDefinitionOrder(){
-        return (currentDefinitionIndex+1)+"/"+(definitions.size());
+    public String getDefinitionOrder() {
+        return (currentDefinitionIndex + 1) + "/" + (definitions.size());
+    }
+
+    @Override
+    public int compareTo(Word another) {
+        return ComparisonChain.start().compare(this.list, another.list)
+                .compare(this.word, another.word).result();
     }
 }

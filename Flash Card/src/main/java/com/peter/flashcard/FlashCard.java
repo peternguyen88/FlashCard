@@ -2,10 +2,13 @@ package com.peter.flashcard;
 
 import android.app.Activity;
 
+import com.google.common.eventbus.Subscribe;
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
 import com.peter.flashcard.adapter.DrawerAdapter;
+import com.peter.flashcard.event.SlidingMenuItemSelectEvent;
 import com.peter.flashcard.view.FlashCardFragment;
 
+import org.androidannotations.annotations.AfterInject;
 import org.androidannotations.annotations.AfterViews;
 import org.androidannotations.annotations.Bean;
 import org.androidannotations.annotations.EActivity;
@@ -42,6 +45,17 @@ public class FlashCard extends Activity {
         getActionBar().setDisplayHomeAsUpEnabled(true);
     }
 
+    @AfterInject
+    public void registerEventBus(){
+        AWLApplication.eventBus.register(this);
+    }
+
+    @Override
+    protected void onDestroy() {
+        AWLApplication.eventBus.unregister(this);
+        super.onDestroy();
+    }
+
     @Override
     public void onBackPressed() {
         if(slidingMenu.isMenuShowing()){
@@ -55,5 +69,10 @@ public class FlashCard extends Activity {
     @OptionsItem(android.R.id.home)
     public void toggleSlidingMenu(){
         slidingMenu.toggle();
+    }
+
+    @Subscribe
+    public void slidingMenuItemSelect(SlidingMenuItemSelectEvent slidingMenuItemSelectEvent){
+        if(slidingMenu.isMenuShowing()) slidingMenu.toggle();
     }
 }

@@ -2,8 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    xmlns:bootstrapbutton="http://schemas.android.com/apk/res-auto"
-    xmlns:fontawesometext="http://schemas.android.com/apk/res-auto">
+    xmlns:bootstrapbutton="http://schemas.android.com/apk/res-auto">
 
     <LinearLayout
         android:layout_width="fill_parent"
@@ -52,17 +51,27 @@
 
             <com.beardedhen.androidbootstrap.BootstrapButton
                 android:id="@+id/previousButton"
-                android:layout_width="fill_parent"
+                android:layout_width="0dp"
                 android:layout_height="fill_parent"
                 android:text="Previous"
                 android:layout_weight="1"
                 bootstrapbutton:bb_icon_left="fa-fast-backward"
                 bootstrapbutton:bb_type="success"/>
+
+            <com.beardedhen.androidbootstrap.BootstrapButton
+                android:id="@+id/autoPlayButton"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:text="Auto"
+                android:layout_weight="0.5"
+                bootstrapbutton:bb_type="primary"/>
+
             <com.beardedhen.androidbootstrap.BootstrapButton
                 android:id="@+id/nextButton"
-                android:layout_width="fill_parent"
+                android:layout_width="0dp"
                 android:layout_height="fill_parent"
                 android:text="Next"
+                bootstrapbutton:bb_text_gravity="right"
                 android:layout_weight="1"
                 bootstrapbutton:bb_icon_right="fa-fast-forward"
                 bootstrapbutton:bb_type="success"/>
