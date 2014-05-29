@@ -8,8 +8,10 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.util.Log;
+import android.widget.Button;
 import android.widget.ImageView;
 
+import com.beardedhen.androidbootstrap.BootstrapButton;
 import com.peter.flashcard.R;
 import com.peter.flashcard.content.ContentProvider;
 import com.peter.flashcard.model.Word;
@@ -79,7 +81,6 @@ public class FlashCardFragment extends Fragment {
     public void onStop() {
         super.onStop();
         BackgroundExecutor.cancelAll(UPDATE_THREAD,true);
-
     }
 
     @Override
@@ -91,15 +92,32 @@ public class FlashCardFragment extends Fragment {
         updateFlashCard();
     }
 
+    @ViewById(R.id.autoPlayButton)
+    BootstrapButton autoPlayButton;
+
+    @ViewById(R.id.previousButton)
+    BootstrapButton previousButton;
+
+    @ViewById(R.id.nextButton)
+    BootstrapButton nextButton;
+
     @Click(R.id.autoPlayButton)
-    public void autoRun(){
+    public void autoRunClicked(){
         if(isAutoRun){
             isAutoRun = false;
             BackgroundExecutor.cancelAll(UPDATE_THREAD, true);
+            autoPlayButton.setText("Play");
+            autoPlayButton.setBootstrapType("primary");
+            previousButton.setBootstrapButtonEnabled(true);
+            nextButton.setBootstrapButtonEnabled(true);
         }
         else{
             isAutoRun = true;
             periodicalUpdate();
+            autoPlayButton.setText("Stop");
+            autoPlayButton.setBootstrapType("warning");
+            previousButton.setBootstrapButtonEnabled(false);
+            nextButton.setBootstrapButtonEnabled(false);
         }
     }
 

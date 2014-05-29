@@ -51,7 +51,7 @@
 
             <com.beardedhen.androidbootstrap.BootstrapButton
                 android:id="@+id/previousButton"
-                android:layout_width="0dp"
+                android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
                 android:text="Previous"
                 android:layout_weight="1"
@@ -60,15 +60,16 @@
 
             <com.beardedhen.androidbootstrap.BootstrapButton
                 android:id="@+id/autoPlayButton"
-                android:layout_width="0dp"
+                android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
-                android:text="Auto"
-                android:layout_weight="0.5"
+                android:text="Play"
+                bootstrapbutton:bb_text_gravity="center"
+                android:layout_weight="1.3"
                 bootstrapbutton:bb_type="primary"/>
 
             <com.beardedhen.androidbootstrap.BootstrapButton
                 android:id="@+id/nextButton"
-                android:layout_width="0dp"
+                android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
                 android:text="Next"
                 bootstrapbutton:bb_text_gravity="right"

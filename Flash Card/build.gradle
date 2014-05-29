@@ -51,9 +51,10 @@ dependencies {
     compile 'com.j256.ormlite:ormlite-android:4.48'
     compile 'com.j256.ormlite:ormlite-core:4.48'
 
-    // Bootstrap UI
+    // Library Projects
     compile project(':AndroidBootstrap')
     compile project(':SlidingMenu')
+    compile project(':rangebar')
 
     // Google Guava and Apache Commons Lang
     compile 'com.google.guava:guava:17.0'

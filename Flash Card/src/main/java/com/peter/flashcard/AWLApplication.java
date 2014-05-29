@@ -16,5 +16,8 @@ public class AWLApplication extends Application {
         FlatUI.initDefaultValues(this);
     }
 
+    /**
+     * An EventBus for Handling all Event in system without using Listener ^_^
+     */
     public static final EventBus eventBus = new EventBus();
 }

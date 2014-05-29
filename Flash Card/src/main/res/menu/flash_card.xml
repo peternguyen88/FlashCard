@@ -2,8 +2,22 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.peter.flashcard.FlashCard" >
-    <item android:id="@+id/action_settings"
-        android:title="@string/action_settings"
-        android:orderInCategory="100"
-        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/customer_overflow_menu"
+        android:icon="@drawable/abc_ic_menu_moreoverflow_normal_holo_light"
+        android:orderInCategory="200"
+        app:showAsAction="always"
+        android:title="Overflow Menu">
+        <menu>
+            <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/speedAdjustment"
+                    app:showAsAction="never"
+                    android:title="Adjust Speed"
+                    android:checkable="false">
+                </item>
+            </group>
+        </menu>
+    </item>
 </menu>
