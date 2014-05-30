@@ -1,24 +1,21 @@
 package com.peter.flashcard;
 
-import android.app.Activity;
 import android.support.v7.app.ActionBarActivity;
 
 import com.google.common.eventbus.Subscribe;
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
-import com.peter.flashcard.adapter.DrawerAdapter;
+import com.peter.flashcard.event.AutoPlayInterruptEvent;
 import com.peter.flashcard.event.SlidingMenuItemSelectEvent;
 import com.peter.flashcard.view.FlashCardFragment;
 import com.peter.flashcard.view.fragment.SpeedAdjustmentPopupFragment;
 
 import org.androidannotations.annotations.AfterInject;
 import org.androidannotations.annotations.AfterViews;
-import org.androidannotations.annotations.Bean;
 import org.androidannotations.annotations.EActivity;
 import org.androidannotations.annotations.Extra;
 import org.androidannotations.annotations.FragmentById;
 import org.androidannotations.annotations.OptionsItem;
 import org.androidannotations.annotations.OptionsMenu;
-import org.androidannotations.annotations.OptionsMenuItem;
 
 @EActivity(R.layout.activity_flash_card)
 @OptionsMenu(R.menu.flash_card)
@@ -81,6 +78,9 @@ public class FlashCard extends ActionBarActivity {
 
     @OptionsItem(R.id.speedAdjustment)
     protected void speedAdjustmentMenuItemSelected(){
-        SpeedAdjustmentPopupFragment.instance().show(getSupportFragmentManager(),"Speed Adjustment Dialog");
+        // Raising Interrupt Mode to stop Auto Play
+        AWLApplication.eventBus.post(new AutoPlayInterruptEvent(AutoPlayInterruptEvent.Mode.MODE_INTERRUP));
+        SpeedAdjustmentPopupFragment.instance().setCurrentSpeed(flashCardFragment.getSleepingTime())
+                .show(getSupportFragmentManager(), "Speed Adjustment Dialog");
     }
 }

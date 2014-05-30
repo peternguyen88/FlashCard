@@ -710,24 +710,12 @@ public class RangeBar extends View {
     private void onActionDown(float x, float y) {
 
         if (!mLeftThumb.isPressed() && mLeftThumb.isInTargetZone(x, y)) {
-
-            pressThumb(mLeftThumb);
+                pressThumb(mLeftThumb);
 
         } else if (!mLeftThumb.isPressed() && mRightThumb.isInTargetZone(x, y)) {
 
             pressThumb(mRightThumb);
         }
-    }
-
-    boolean disableLeftThumb;
-    boolean disableRightThumb;
-
-    public void setDisableLeftThumb(boolean disableLeftThumb) {
-        this.disableLeftThumb = disableLeftThumb;
-    }
-
-    public void setDisableRightThumb(boolean disableRightThumb) {
-        this.disableRightThumb = disableRightThumb;
     }
 
     /**

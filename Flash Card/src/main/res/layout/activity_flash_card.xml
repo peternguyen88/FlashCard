@@ -15,4 +15,5 @@
         android:layout_height="fill_parent"
         class="com.peter.flashcard.view.FlashCardFragment_"
         tools:layout="@layout/fragment_flash_card" />
+
 </LinearLayout>

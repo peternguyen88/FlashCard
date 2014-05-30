@@ -4,14 +4,14 @@
     xmlns:bootstrapbutton="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:padding="10dp">
 
     <com.edmodo.rangebar.RangeBar xmlns:custom="http://schemas.android.com/apk/res-auto"
         android:id="@+id/rangebar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        custom:tickCount="10" />
+        custom:tickCount="15" />
 
     <LinearLayout
         android:layout_width="fill_parent"
@@ -32,7 +32,7 @@
             android:layout_width="0dp"
             android:layout_height="fill_parent"
             android:layout_weight="1"
-            android:text="10s"
+            android:text="5s"
             android:textColor="@android:color/white"
             android:textSize="20sp"
             android:gravity="center" />
@@ -41,7 +41,7 @@
             android:layout_width="0dp"
             android:layout_height="fill_parent"
             android:layout_weight="1"
-            android:text="10s"
+            android:text="15s"
             android:textColor="@android:color/white"
             android:textSize="20sp"
             android:gravity="right" />
@@ -50,7 +50,7 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="50dp">
 
         <com.beardedhen.androidbootstrap.BootstrapButton
             android:id="@+id/okButton"
@@ -59,7 +59,6 @@
             android:text="OK"
             android:layout_weight="1"
             bootstrapbutton:bb_text_gravity="center"
-            bootstrapbutton:bb_icon_left="fa-fast-backward"
             bootstrapbutton:bb_type="success"/>
 
         <com.beardedhen.androidbootstrap.BootstrapButton
@@ -69,7 +68,6 @@
             android:layout_weight="1"
             android:text="Dismiss"
             bootstrapbutton:bb_text_gravity="center"
-            bootstrapbutton:bb_icon_left="fa-fast-backward"
             bootstrapbutton:bb_type="success"/>
 
     </LinearLayout>
