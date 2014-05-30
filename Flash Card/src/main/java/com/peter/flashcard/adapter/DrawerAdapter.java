@@ -59,11 +59,11 @@ public class DrawerAdapter extends BaseAdapter{
 
         if (convertView == null) {
             slidingMenuItem = SlidingMenuItem_.build(context);
-            bindTextView(slidingMenuItem,position);
         } else {
             slidingMenuItem = (SlidingMenuItem) convertView;
         }
 
+        bindTextView(slidingMenuItem,position);
         return slidingMenuItem;
     }
 

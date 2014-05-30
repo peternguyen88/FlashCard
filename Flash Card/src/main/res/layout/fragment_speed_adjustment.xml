@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    xmlns:bootstrapbutton="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="10dp">
 
-    <com.edmodo.rangebar.RangeBar
-        xmlns:custom="http://schemas.android.com/apk/res-auto"
+    <com.edmodo.rangebar.RangeBar xmlns:custom="http://schemas.android.com/apk/res-auto"
         android:id="@+id/rangebar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        custom:tickCount="10"
-    />
+        custom:tickCount="10" />
 
     <LinearLayout
         android:layout_width="fill_parent"
@@ -25,7 +25,7 @@
             android:layout_weight="1"
             android:text="1s"
             android:textColor="@android:color/white"
-            android:textSize="20sp"/>
+            android:textSize="20sp" />
 
         <TextView
             android:id="@+id/speedTextView"
@@ -35,7 +35,7 @@
             android:text="10s"
             android:textColor="@android:color/white"
             android:textSize="20sp"
-            android:gravity="center"/>
+            android:gravity="center" />
 
         <TextView
             android:layout_width="0dp"
@@ -44,7 +44,34 @@
             android:text="10s"
             android:textColor="@android:color/white"
             android:textSize="20sp"
-            android:gravity="right"/>
+            android:gravity="right" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <com.beardedhen.androidbootstrap.BootstrapButton
+            android:id="@+id/okButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="OK"
+            android:layout_weight="1"
+            bootstrapbutton:bb_text_gravity="center"
+            bootstrapbutton:bb_icon_left="fa-fast-backward"
+            bootstrapbutton:bb_type="success"/>
+
+        <com.beardedhen.androidbootstrap.BootstrapButton
+            android:id="@+id/dismissButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Dismiss"
+            bootstrapbutton:bb_text_gravity="center"
+            bootstrapbutton:bb_icon_left="fa-fast-backward"
+            bootstrapbutton:bb_type="success"/>
+
     </LinearLayout>
 
 </LinearLayout>

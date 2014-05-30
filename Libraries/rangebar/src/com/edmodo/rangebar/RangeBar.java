@@ -719,6 +719,17 @@ public class RangeBar extends View {
         }
     }
 
+    boolean disableLeftThumb;
+    boolean disableRightThumb;
+
+    public void setDisableLeftThumb(boolean disableLeftThumb) {
+        this.disableLeftThumb = disableLeftThumb;
+    }
+
+    public void setDisableRightThumb(boolean disableRightThumb) {
+        this.disableRightThumb = disableRightThumb;
+    }
+
     /**
      * Handles a {@link MotionEvent#ACTION_UP} or 
      * {@link MotionEvent#ACTION_CANCEL} event.
