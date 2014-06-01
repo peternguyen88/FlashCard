@@ -4,6 +4,7 @@ import com.google.common.collect.Collections2;
 import com.google.common.collect.ListMultimap;
 import com.peter.flashcard.model.Word;
 
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
@@ -15,8 +16,8 @@ public class ContentProvider {
 
     static int currentIndex = 0;
 
-    private static List<Word> wordList;
-    private static List<Word> fullWordList;
+    private static List<Word> wordList = new ArrayList<Word>();
+    private static List<Word> fullWordList = new ArrayList<Word>();
     private static ListMultimap<Integer,Word> awlMap;
 
     public static Word nextWord(){
@@ -33,6 +34,10 @@ public class ContentProvider {
 
     public static Word currentWord(){
         return wordList.get(currentIndex);
+    }
+
+    public static void setCurrentWord(Word word){
+        currentIndex = wordList.indexOf(word);
     }
 
     public static List<Word> getWordList() {

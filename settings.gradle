@@ -1,4 +1,4 @@
-include ':Flash Card', ':AndroidBootstrap', 'SlidingMenu', ':SlidingMenu', ':rangebar'
+include ':Flash Card', ':AndroidBootstrap', 'SlidingMenu', ':SlidingMenu', ':rangebar', ':ListviewFilter'
 project(':AndroidBootstrap').projectDir = new File('Libraries/AndroidBootstrap')
 project(':SlidingMenu').projectDir = new File('Libraries/SlidingMenu')
 project(':rangebar').projectDir = new File('Libraries/rangebar')

@@ -5,6 +5,7 @@ import android.support.v7.app.ActionBarActivity;
 import com.google.common.eventbus.Subscribe;
 import com.jeremyfeinstein.slidingmenu.lib.SlidingMenu;
 import com.peter.flashcard.event.AutoPlayInterruptEvent;
+import com.peter.flashcard.event.RightSlidingMenuItemSelectEvent;
 import com.peter.flashcard.event.SlidingMenuItemSelectEvent;
 import com.peter.flashcard.view.FlashCardFragment;
 import com.peter.flashcard.view.fragment.SpeedAdjustmentPopupFragment;
@@ -33,7 +34,7 @@ public class FlashCard extends ActionBarActivity {
     public void initSlidingMenu(){
         slidingMenu = new SlidingMenu(this);
 
-        slidingMenu.setMode(SlidingMenu.LEFT);
+        slidingMenu.setMode(SlidingMenu.LEFT_RIGHT);
         slidingMenu.setTouchModeAbove(SlidingMenu.TOUCHMODE_FULLSCREEN);
         slidingMenu.setShadowWidthRes(R.dimen.slidingmenu_shadow_width);
         slidingMenu.setShadowDrawable(R.drawable.shadow);
@@ -41,6 +42,21 @@ public class FlashCard extends ActionBarActivity {
         slidingMenu.setFadeDegree(0.35f);
         slidingMenu.attachToActivity(this, SlidingMenu.SLIDING_CONTENT);
         slidingMenu.setMenu(R.layout.slide_drawer);
+        slidingMenu.setSecondaryMenu(R.layout.slide_drawer_right);
+
+        slidingMenu.setOnOpenedListener(new SlidingMenu.OnOpenedListener() {
+            @Override
+            public void onOpened() {
+                AWLApplication.eventBus.post(new AutoPlayInterruptEvent(AutoPlayInterruptEvent.Mode.MODE_INTERRUP));
+            }
+        });
+
+        slidingMenu.setOnClosedListener(new SlidingMenu.OnClosedListener() {
+            @Override
+            public void onClosed() {
+                AWLApplication.eventBus.post(new AutoPlayInterruptEvent(AutoPlayInterruptEvent.Mode.MODE_RESUME));
+            }
+        });
 
         getActionBar().setDisplayHomeAsUpEnabled(true);
     }
@@ -73,7 +89,12 @@ public class FlashCard extends ActionBarActivity {
 
     @Subscribe
     public void slidingMenuItemSelect(SlidingMenuItemSelectEvent slidingMenuItemSelectEvent){
-        if(slidingMenu.isMenuShowing()) slidingMenu.toggle();
+        if(slidingMenuItemSelectEvent.isLeftMenu()) {
+            if (slidingMenu.isMenuShowing()) slidingMenu.toggle();
+        }
+        if(slidingMenuItemSelectEvent.isRightMenu()){
+            if (slidingMenu.isMenuShowing()) slidingMenu.toggle();
+        }
     }
 
     @OptionsItem(R.id.speedAdjustment)

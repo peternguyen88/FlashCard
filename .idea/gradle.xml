@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/Libraries/AndroidBootstrap" />
             <option value="$PROJECT_DIR$/Libraries/SlidingMenu" />
             <option value="$PROJECT_DIR$/Libraries/rangebar" />
+            <option value="$PROJECT_DIR$/ListviewFilter" />
           </set>
         </option>
       </GradleProjectSettings>

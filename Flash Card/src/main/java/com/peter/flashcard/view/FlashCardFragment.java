@@ -16,6 +16,7 @@ import com.peter.flashcard.AWLApplication;
 import com.peter.flashcard.R;
 import com.peter.flashcard.content.ContentProvider;
 import com.peter.flashcard.event.AutoPlayInterruptEvent;
+import com.peter.flashcard.event.RightSlidingMenuItemSelectEvent;
 import com.peter.flashcard.event.SpeedChangeEvent;
 import com.peter.flashcard.model.Word;
 import com.peter.flashcard.view.fragment.WordPopupFragment;
@@ -206,5 +207,10 @@ public class FlashCardFragment extends Fragment {
                 periodicalUpdate();
             }
         }
+    }
+    @Subscribe
+    public void rightSlidingMenuItemSelect(RightSlidingMenuItemSelectEvent event){
+        stopAutoPlaying();
+        updateFlashCard();
     }
 }
