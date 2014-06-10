@@ -55,6 +55,7 @@ dependencies {
     compile project(':AndroidBootstrap')
     compile project(':SlidingMenu')
     compile project(':rangebar')
+    compile project(':android-quiz-template')
 
     // Google Guava and Apache Commons Lang
     compile 'com.google.guava:guava:17.0'

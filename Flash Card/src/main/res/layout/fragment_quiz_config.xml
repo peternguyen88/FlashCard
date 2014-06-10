@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:flatui="http://schemas.android.com/apk/res-auto">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="2">
+
+
+        <TextView
+            android:text="Number of Questions:"/>
+
+        <Spinner
+            android:id="@+id/numberOfQuestionSpinner"
+            android:entries="@array/number_of_questions"/>
+
+        <TextView android:text="Time Per Question (s):"/>
+
+        <Spinner
+            android:id="@+id/timePerQuestionSpinner"
+            android:entries="@array/time_per_question"/>
+
+    </GridLayout>
+
+</LinearLayout>

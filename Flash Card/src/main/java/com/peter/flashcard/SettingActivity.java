@@ -11,6 +11,7 @@ import com.peter.flashcard.model.Definition;
 import com.peter.flashcard.model.Word;
 import com.peter.flashcard.persistence.DatabaseHelper;
 import com.peter.flashcard.pref.SharedPrefs_;
+import com.peter.flashcard.view.fragment.QuizConfigFragment;
 
 import org.androidannotations.annotations.Background;
 import org.androidannotations.annotations.Click;
@@ -37,6 +38,11 @@ public class SettingActivity extends ActionBarActivity {
     @Click(R.id.startButton)
     public void startButtonClick() {
         FlashCard_.intent(this).sleepingTime(convertSeekBarToSleepingTime()).start();
+    }
+
+    @Click(R.id.popupButton)
+    protected void popupButtonClick(){
+        QuizConfigFragment.instance().show(getSupportFragmentManager(),"POPUP NOW");
     }
 
     private int convertSeekBarToSleepingTime() {

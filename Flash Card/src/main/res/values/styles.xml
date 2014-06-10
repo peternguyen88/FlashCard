@@ -11,4 +11,5 @@
         parent="@android:style/Widget.Holo.Light.ActionBar">
         <item name="android:background">@color/flatui_emerald</item>
     </style>
+
 </resources>
